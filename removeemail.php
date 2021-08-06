@@ -1,6 +1,6 @@
 <?php
   // Connection to the database
-  $dbc = mysqli_connect('localhost', 'root', '%0ArSs7UI4#I8op%', 'elvis_store')
+  $dbc = mysqli_connect('localhost', 'root', '****', 'elvis_store')
   or die('error connecting to MySQL server.');
 
   // Get inputs from form
